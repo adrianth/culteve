@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+# Non-Jekyll stuff
+_untracked
+TODO.txt

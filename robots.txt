@@ -1,0 +1,11 @@
+Sitemap: https://stathanasiuschurch.org/sitemap.xml
+
+User-agent: *
+Disallow: /portfolio_page/
+Disallow: /school
+Disallow: /contact/
+Disallow: /about-us/
+Disallow: /parish/history
+Disallow: /parish/pastors
+Disallow: /portfolio_page/stockholm-fashion-destination/
+

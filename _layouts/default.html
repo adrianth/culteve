@@ -1,0 +1,41 @@
+---
+layout: compress
+---
+
+{% if page.lang %}
+    {% assign lang-suffix = '-' | append: page.lang %}
+{% else %}
+    {% assign lang-suffix = '-ro' %}
+{% endif %}
+
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+    <head>
+	    {% include other/head-section.html %}
+
+        {% if page.keywords %}
+            <meta name="keywords" content="{{ page.keywords }}">
+        {% endif %}
+        
+        {% if page.description %}
+            <meta name="description" content="{{ page.description }}">
+        {% endif %}
+    </head>
+
+	<body>
+        {% include other/main-menu{{ lang-suffix }}.html %}
+        <div class="main-content">
+        {{ content }}
+        </div>
+
+        {% include other/footer{{ lang-suffix }}.html %}
+        {% include other/footer-common.html %}
+
+        <!--<div id="img-preloader">
+            <img src="{{ site.baseurl }}/img/icons/home-light.png">
+            <img src="{{ site.baseurl }}/img/icons/home-dark.png">
+            <img src="{{ site.baseurl }}/img/icons/flag-romania-round-64.png">
+            <img src="{{ site.baseurl }}/img/icons/flag-usa-round-64.png">
+        </div>-->
+	</body>
+</html>

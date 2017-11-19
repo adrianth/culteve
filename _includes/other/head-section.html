@@ -1,0 +1,37 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% if page.title-exclusive %}
+    {% assign title = page.title-exclusive %}
+{% elsif page.lang == 'en' %}
+    {% if page.title %}
+        {% assign title = page.title | append: ' - ' | append: site.title-en %}
+    {% else %}
+        {% assign title = site.title-en %}
+    {% endif %}
+{% else %}
+    {% if page.title %}
+        {% assign title = page.title | append: ' - ' | append: site.title %}
+    {% else %}
+        {% assign title = site.title %}
+    {% endif %}
+{% endif %}
+
+<title>{{ title }}</title>
+
+<!-- <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/img/icons/icon.png?1"> -->
+
+<link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">-->
+<link href="{{ site.baseurl }}/css/style.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/css/slick.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/css/menu.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/css/home.css" rel="stylesheet">
+
+<!-- Custom Fonts -->
+<link href="https://fonts.googleapis.com/css?family=Oswald&subset=latin-ext" rel="stylesheet">
+
+<!-- Webmaster tools validation -->
+<meta name="msvalidate.01" content="D2AD9BE544B6DE942EC7732D82A4C380" />
+<meta name="yandex-verification" content="489fefcec7a99b43" />
