@@ -17,8 +17,8 @@
 title: Art and Culture
 title-en: Art and Culture
 # email: none@gmail.com
-baseurl: "/culteve" # the subpath of the site, e.g. /blog
-url: "" # the base hostname & protocol for the site, e.g. http://example.com
+baseurl: "" # the subpath of the site, e.g. /blog
+url: "http://culturalevening.com" # the base hostname & protocol for the site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
