@@ -86,7 +86,7 @@ nav.main-menu .active > a:focus {
 }
 
 span.icon-bar {
-    background-color: #FFAD32;
+    background-color: $main-menu-text-color;
 }
 
 div.flag, div.home {
@@ -130,7 +130,7 @@ div.flag-ro {
     }
 
     nav.main-menu .navbar-nav {
-        background-color: rgba(84, 19, 17, 0.9);
+        background-color: $main-menu-background-color;
         margin: 0px -15px; 
     }
 
