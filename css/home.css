@@ -6,23 +6,29 @@
 
 div.home-banner {
     background-color: #878787;
-    /* background-image: url({{ site.baseurl }}/img/home/st-athanasius-banner.jpg); */
-    background-position: 15% top;
+    background-image: url({{ site.baseurl }}/img/home/books.jpg);
+    /* background-position: 15% top; */
+    background-position: 50% top;
     background-repeat: no-repeat;
     background-size: cover;
-    border-bottom: 5px solid gray;
+    border-bottom: 5px solid #3F000C;
     display: inline-block;
     height: 420px;
-    margin-top: -85px;
+    margin-top: -45px;
+    position: relative;
     width: 100%;
 }
 
 div.home-banner h1 {
+    bottom: 5px;
     color: white;
-    font-size: 43px;
+    /* position: absolute; */
+    font-size: 55px;
     line-height: 64px;
     margin-top: 190px;
-    text-shadow: 2px 2px 5px black;
+    right: 15px;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
 }
 
 div.events > ul {
