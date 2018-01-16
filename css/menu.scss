@@ -1,11 +1,11 @@
 ---
 ---
-$main-menu-background-color: gray;
+$main-menu-background-color: #4C000F;
 $main-menu-bottom-color: darken($main-menu-background-color, 10%);
-$main-menu-text-color: white;
+$main-menu-text-color: #D8B4A2;
 
 div.menu-wrapper {
-    background-color: #541311;
+    background-color: $main-menu-background-color;
     background-color: $main-menu-background-color;
     border-bottom: 1px solid $main-menu-bottom-color;
     position: fixed;

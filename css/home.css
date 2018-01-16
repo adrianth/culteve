@@ -12,23 +12,25 @@ div.home-banner {
     background-repeat: no-repeat;
     background-size: cover;
     border-bottom: 5px solid #3F000C;
-    display: inline-block;
-    height: 420px;
+    height: 400px;
     margin-top: -45px;
-    position: relative;
     width: 100%;
 }
 
 div.home-banner h1 {
-    bottom: 5px;
-    color: white;
-    /* position: absolute; */
-    font-size: 55px;
+    bottom: 10px;
+    color: #EAC3AF;
+    display: block;
+    font-size: 50px;
     line-height: 64px;
-    margin-top: 190px;
-    right: 15px;
-    text-align: center;
+    margin-top: 250px;
+    right: 20px;
+    text-align: right;
     text-shadow: 5px 5px 10px black;
+}
+
+div.main-content {
+    background-color: #4C000F;
 }
 
 div.events > ul {
