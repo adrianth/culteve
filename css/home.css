@@ -29,10 +29,6 @@ div.home-banner h1 {
     text-shadow: 5px 5px 10px black;
 }
 
-div.main-content {
-    background-color: #4C000F;
-}
-
 div.events > ul {
     list-style: none;
     padding: 0px 0px 0px 0px;
