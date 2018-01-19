@@ -17,16 +17,26 @@ div.home-banner {
     width: 100%;
 }
 
-div.home-banner h1 {
+div.home-banner {
+    text-align: right;
+}
+
+div.home-banner div.title {
     bottom: 10px;
-    color: #EAC3AF;
-    display: block;
-    font-size: 50px;
-    line-height: 64px;
+    display: inline-block;
     margin-top: 250px;
     right: 20px;
     text-align: right;
+}
+
+div.home-banner h1, div.home-banner h2 {
+    color: #EAC3AF;
     text-shadow: 5px 5px 10px black;
+}
+
+div.title h1 {
+    font-size: 50px;
+    line-height: 64px;
 }
 
 div.events > ul {
