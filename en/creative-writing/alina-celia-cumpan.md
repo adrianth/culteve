@@ -41,7 +41,7 @@ title: Alina Celia Cumpan
 <p>In ochii tai, nu am vazut apus".</p>
 
 A.Cumpan
-</p>
+
     
         <div class="col-sm-6">
             <img class="img img-responsive" src="{{ site.baseurl }}/img/writing/        .jpg" alt="">
