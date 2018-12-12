@@ -7,6 +7,7 @@ title: Alina Celia Cumpan
 <br>
 <div class="container">
     <h2>Alina Celia Cumpan</h2>
+    <div class="row">
     <p> Well-known poet among US Romanian Communities as well as in her native country, Romania - Alina Celia Cumpan is a constant of the local Chicago Area cultural events. Here is one of her latest poems, defining her sensitivity, love and joy of life. </p>
     <p>In ochii tai 
 alintam cărări orfane de timp și lumini nestinse de ani. 
@@ -39,7 +40,7 @@ In ochii tai, nu am vazut apus.
 
 A.Cumpan
 </p>
-    <div class="row">
+    
         <div class="col-sm-6">
             <img class="img img-responsive" src="{{ site.baseurl }}/img/writing/        .jpg" alt="">
         </div> 
