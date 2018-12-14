@@ -24,7 +24,7 @@ url: "http://culturalevening.com" # the base hostname & protocol for the site, e
 markdown: kramdown
 # theme: minima
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   
