@@ -21,7 +21,7 @@ title: Anda & Stefan Cristoltean
 
             <p style="text-align: justify">
             <strong>Anda & Stefan Cristoltean</strong> initiated a folk group starting 2016, after they had been part of Vox-Maris rock and folk band until 2015.
-             Anda & Stefan are members of many cultural manifestations of Romanian folk music and poetry in Chicago area. In March 2018 they were invited to Art & Culture's cultural event, along with other artists, in supporting SPOC's noble cause of helping the children in need. Sharing the same goals of passing on to the young generations values, culture and traditions, Art & Culture Committee has an excellent collaboration with Anda & Stefan in supporting Romanian artistic and cultural manifestations within Chicago area communities.
+             Anda & Stefan are involved in many Romanian folk music and poetry events organised in Chicago area. In March and November 2018 they were invited to SPOC's cultural event along with other local artists, in supporting the noble cause of raising funds to help children in need. Along with sustaining SPOC's noble cause, Art and Culture chapter and its guests have the common goal of passing on to the young generations values, culture and traditions.
              </p>
         </div>
     </div>
