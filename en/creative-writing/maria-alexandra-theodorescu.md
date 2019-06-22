@@ -13,6 +13,7 @@ title: Maria Alexandra Theodorescu
             Here is her Instagram digital drawing/painting & poetry account: <a href="https://www.instagram.com/oceanbluesoul/?hl=en" target="_blank">@oceanbluesoul</a>
             </p>
             <p> Her Instagram account: <a href="https://www.instagram.com/marialexandrath/" target="_blank">@marialexandrath</a>
+            </p>
         </div> 
     </div>
     <br>   
