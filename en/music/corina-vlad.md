@@ -47,9 +47,8 @@ title: Corina Vlad
             <p style="text-align: justify">
         
             <strong>Corina Vlad</strong> is a member of the Romanian folk group ”Cenaclul Retro”. Folk music is a perfect blend of  music, poetry and message that gives color to our souls.
-Along with playing the guitar, Corina is a “kid at heart”,by enjoying small things and being happy with almost anything, enthusiasm often expressed in her poems.
-Corina loves DIY projects. Her creativity comes from her encounter with her inner  child, from nature and all her amazing travels all over the world .She is a massage therapist as an expression of her positive thoughts.
-Her motto in life is”:Be true to yourself. If you cannot put your heart into it, take yourself out of it."</p>
+Along with playing the guitar, Corina also writes poetry. A “kid at heart”, she enjoys small things and her enthusiasm is often expressed in her poems.
+Corina loves DIY projects. Her creativity comes from her encounter with her inner  child, from nature and all her amazing travels all over the world. Her motto in life is”:Be true to yourself. If you cannot put your heart into it, take yourself out of it."</p>
 <br>
 <br>
 
