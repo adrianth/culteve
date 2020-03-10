@@ -19,7 +19,7 @@ title: Lucas & Johnny Raicu
 <br>
 <br>
 
-            <p style="text-align: justify">
+            <p style="text-align: justify">  Johnny and Lucas Raicu are both students at Attea Middle School in Glenview, Illinois. Besides being top students at their school, being involved in many school competitions and several sports, Johnny and Lucas are playing the piano and violin for several years now. 
             <strong>
              </p>
         </div>
