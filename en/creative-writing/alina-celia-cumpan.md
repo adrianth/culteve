@@ -9,7 +9,8 @@ title: Alina Celia Cumpan
     <h2>Alina Celia Cumpan</h2>
     <div class="row">
         <div class="col-sm-6">
-            <p> Well-known poet among US Romanian Communities as well as in her native country, Romania - Alina Celia Cumpan represents a cultural landmark of Romanian social events in Chicago Area. One of her latest published books - Unselfish Selfie - it's a self-portrait reflecting in x-ray light the poet’s migratory experiences of time and space. This poetry book represents her journey from the season of the thoughts to the season of the words, and encourages the reader’s spirit to escape the everyday reality and follow up the stairs of freedom of thought leading to self-improvement. 
+            <p style="text-align: justify">
+             Well-known poet among US Romanian Communities as well as in her native country, Romania - Alina Celia Cumpan represents a cultural landmark of Romanian social events in Chicago Area. One of her latest published books - Unselfish Selfie - it's a self-portrait reflecting in x-ray light the poet’s migratory experiences of time and space. This poetry book represents her journey from the season of the thoughts to the season of the words, and encourages the reader’s spirit to escape the everyday reality and follow up the stairs of freedom of thought leading to self-improvement. 
             Here is one of her poems defining her sensitivity, love and joy of life.</p>
         </div>
     </div>
