@@ -21,6 +21,19 @@ title: Lucian Blaga and Monica Toparceanu-Blaga
         </div>
     </div>
 
+    <br>
+    <div class="row">
+        <div class="col-sm-8">
+            <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+                <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none; overflow:hidden" src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Flucianblaga.us%2Fvideos%2F1677149945821321%2F&show_text=false"  scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+            </div>
+        </div>
+        <div class="col-sm-4">
+            <p> Dorul de "acasa" depaseste granitele si ne uneste oriunde ne aflam in lume. O colaborare de exceptie care sfideaza timpul si distanta. Un cadou unic menit sa aduca bucurie si fericire in sufletele romanilor intr-un sfarsit de an 2020 destul de incercat. Multumim Monica Anghel, Monica Toparceanu-Blaga si Lucian Blaga pentru idee, compozitie, versuri si interpretare!</p>
+        </div>
+    </div>
+    <br>
+
     <div class="row">
         <div clas="col-sm-12">
             <p>
