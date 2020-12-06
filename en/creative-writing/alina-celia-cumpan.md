@@ -9,7 +9,7 @@ title: Alina Celia Cumpan
     <h2>Alina Celia Cumpan</h2>
     <div class="row">
         <div class="col-sm-6">
-            <p> Well-known poet among US Romanian Communities as well as in her native country, Romania - Alina Celia Cumpan is a constant of the local Chicago Area cultural events. Here is one of her latest poems, defining her sensitivity, love and joy of life.</p>
+            <p> Well-known poet among US Romanian Communities as well as in her native country, Romania - Alina Celia Cumpan represents a cultural landmark of Romanian social events on Chicago Area. Here is one of her poems, defining her sensitivity, love and joy of life.</p>
         </div>
     </div>
     <h3>In ochii tai</h3>
