@@ -30,7 +30,7 @@ title: Lucian Blaga and Monica Toparcean-Blaga
             </div>
         </div>
         <div class="col-sm-5">
-            <p style="text-align: justify"> Dorul de "acasa" depaseste granitele si ne uneste oriunde ne aflam in lume. O colaborare de exceptie care sfideaza timpul si distanta. Un cadou unic menit sa aduca bucurie si fericire in sufletele romanilor la sfarsit de an 2020. Multumim Monica Anghel, Monica Toparcean-Blaga si Lucian Blaga pentru idee, compozitie, versuri si interpretare!</p>
+            <p style="text-align: justify"> Dorul de acasa depaseste granitele si ne uneste oriunde ne aflam in lume. O colaborare de exceptie care sfideaza timpul si distanta. Un cadou unic menit sa aduca bucurie si fericire in sufletele romanilor la sfarsit de an 2020. Multumim Monica Anghel, Monica Toparcean-Blaga si Lucian Blaga pentru idee, compozitie, versuri si interpretare!</p>
         </div>
     </div>
     <br>
