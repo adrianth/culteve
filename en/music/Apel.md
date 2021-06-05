@@ -14,7 +14,7 @@ title: Apel
         <div class="col-sm-4">
             <p style="text-align: justify"><strong>Apel</strong> Members: Florin, Justin, Adelina and Ray Barac
 
-Barac family was born in Sibiu, Romania. Music has been present in their life since childhood, as their dad use to play the quitar every day. Starting 1980, one by one, the entire family moved to US, facing the difficulties and the inherent challenges of leaving a communist regime behind while taking the first steps in a brand new beginning in life.  Throughout the years, theid band called Apel held many concerts in most of the Romanian churches from Chicago Area. They have been singing religious and folk music for over 30 years now.
+Barac family was born in Sibiu, Romania. Music has been present in their life since childhood, as their dad use to play the quitar every day. Starting 1980, the entire family -one by one- moved to US, facing the difficulties and the inherent challenges of leaving a communist regime behind while taking the first steps of a brand new beginning in life. They formed a the band named "Apel" and, throughout the years, held many concerts in most of the Romanian churches from Chicago Area. Barac family have been singing religious and folk music for over 30 years now.
              </p>
         </div>
     </div>
