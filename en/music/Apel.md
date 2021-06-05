@@ -19,7 +19,19 @@ Barac family was born in Sibiu, Romania. Music has been present in their life si
         </div>
     </div>
 
-    
+<br>   
+</div>
+<br>
+<div class="row">
+        <div clas="col-sm-12">
+            <p>
+                <strong>Resources:</strong>
+                <ul>
+                    <li>YouTube: <a href="https://www.youtube.com/watch?v=BRGauZPm9Ds">https://www.youtube.com/watch?v=BRGauZPm9Ds</a></li>
+                </ul>
+             </p>
+        </div>
+    </div>
     <br>   
 </div>
 <br>
