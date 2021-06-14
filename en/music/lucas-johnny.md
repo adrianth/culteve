@@ -17,7 +17,6 @@ title: Lucas & Johnny Raicu
         </div>
     </div>
 
-    
     <br>   
 </div>
 <br>
