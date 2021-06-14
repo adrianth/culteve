@@ -6,7 +6,7 @@ title: Lucas & Johnny Raicu
 
 <br>
 <div class="container">
-    <h2>Lucas & Johhny Raicu</h2>
+    <h2>Lucas & Johnny Raicu</h2>
     <div class="row">
         <div class="col-sm-5">
             <img class="img img-responsive" src="{{ site.baseurl }}/img/music/viori.jpg" />
