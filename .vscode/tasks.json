@@ -4,9 +4,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "jekyll serve",
+            "label": "bundle exec jekyll serve",
             "type": "shell",
-            "command": "jekyll serve",
+            "command": "bundle exec jekyll serve",
             "runOptions": {
                 "runOn": "folderOpen"
             }
