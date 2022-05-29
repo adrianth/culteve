@@ -4,34 +4,31 @@
     height: 400px;
 }
 
-div.home-banner {
-    background-color: #878787;
-    background-image: url({{ site.baseurl }}/img/home/books.jpg);
-    /* background-position: 15% top; */
-    background-position: 50% top;
-    background-repeat: no-repeat;
+.homepage {
+    height: 500px;
+    display: flex;
+}
+
+.homepage div {
     background-size: cover;
-    border-bottom: 5px solid #3F000C;
-    height: 400px;
-    margin-top: -45px;
-    width: 100%;
+    background-position: center center;
+    flex: 1 1 0px;
 }
 
-div.home-banner {
-    text-align: right;
+.homepage *:nth-child(1) {
+    background-image: url({{ site.baseurl }}/img/home/paintbrush.jpg);
 }
 
-div.home-banner div.title {
-    bottom: 10px;
-    display: inline-block;
-    margin-top: 250px;
-    right: 20px;
-    text-align: right;
+.homepage *:nth-child(2) {
+    background-image: url({{ site.baseurl }}/img/home/camera.jpg);
 }
 
-div.home-banner h1, div.home-banner h2 {
-    color: #EAC3AF;
-    text-shadow: 5px 5px 10px black;
+.homepage *:nth-child(3) {
+    background-image: url({{ site.baseurl }}/img/home/violin.jpg);
+}
+
+.homepage *:nth-child(4) {
+    background-image: url({{ site.baseurl }}/img/home/violin.jpg);
 }
 
 div.title h1 {
@@ -116,14 +113,4 @@ div.carousel-item {
 
 .carousel-next {
     right: 10px;
-}
-
-@media (max-width: 360px) {
-    #brand-text {
-        font-size: 90%;
-    }
-
-    div.home-banner {
-        background-position: 18% top;
-    }
 }
