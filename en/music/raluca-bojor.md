@@ -1,11 +1,11 @@
 ---
 lang: en
 layout: default
-title: Ligia-Raluca Bojor Hofmeyer
+title: Ligia-Raluca Bojor
 ---
 <br>
 <div class="container">
-    <h2>Ligia-Raluca Bojor Hofmeyer</h2>
+    <h2>Raluca Bojor</h2>
     <br>
 
     <div class="row">
@@ -14,7 +14,7 @@ title: Ligia-Raluca Bojor Hofmeyer
         </div> 
         <div class="col-sm-5"> 
             <p style="text-align: justify">
-            Ligia-Raluca Bojor Hofmeyer was born and raised in Brașov, Romania at the foot of the Carpathian mountains. Ever since she was a little girl she played the piano day and night, exploring the endless possibilities of music making. She attended "Liceul de Muzică Tudor Ciortea" of Brașov for twelve years, where she studied music at a professional level. After finishing high school, Raluca moved to the United States in order to pursue a Bachelor of Music degree at the Wheaton College Conservatory. She studies piano with Dr. Karin Edwards. Ten years later, Raluca is an active teacher, performer, composer, and arranger. She teaches music at the Wheaton Yamaha Music School. In addition, Raluca publishes her own music on YouTube, on Musicnotes, and has three piano books in circulation in Romania through Mirabel Music publishing house. She and her husband live in Aurora, IL. 
+            Raluca Bojor was born and raised in Brașov, Romania at the foot of the Carpathian mountains. Ever since she was a little girl she played the piano day and night, exploring the endless possibilities of music making. She attended "Liceul de Muzică Tudor Ciortea" of Brașov for twelve years, where she studied music at a professional level. After finishing high school, Raluca moved to the United States in order to pursue a Bachelor of Music degree at the Wheaton College Conservatory. She studies piano with Dr. Karin Edwards. Ten years later, Raluca is an active teacher, performer, composer, and arranger. She teaches music at the Wheaton Yamaha Music School. In addition, Raluca publishes her own music on YouTube, on Musicnotes, and has three piano books in circulation in Romania through Mirabel Music publishing house. She and her husband live in Aurora, IL. 
              </p>
         </div>
     </div>
