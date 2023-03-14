@@ -14,7 +14,12 @@ title: Ligia-Raluca Bojor
         </div> 
         <div class="col-sm-5"> 
             <p style="text-align: justify">
-            Raluca Bojor was born and raised in Brașov, Romania at the foot of the Carpathian mountains. Ever since she was a little girl she played the piano day and night, exploring the endless possibilities of music making. She attended "Liceul de Muzică Tudor Ciortea" of Brașov for twelve years, where she studied music at a professional level. After finishing high school, Raluca moved to the United States in order to pursue a Bachelor of Music degree at the Wheaton College Conservatory. She studies piano with Dr. Karin Edwards. Ten years later, Raluca is an active teacher, performer, composer, and arranger. She teaches music at the Wheaton Yamaha Music School. In addition, Raluca publishes her own music on YouTube, on Musicnotes, and has three piano books in circulation in Romania through Mirabel Music publishing house. She and her husband live in Aurora, IL. 
+           Raluca Bojor's background is truly impressive. She was born and raised in Brașov, Romania, at the base of the beautiful Carpathian Mountains. From a young age, she had a deep passion for playing the piano, and would often spend hours exploring the limitless possibilities of music-making. Raluca attended the "Liceul de Muzică Tudor Ciortea" of Brașov for twelve years, where she studied music at a professional level. After completing high school, Raluca relocated to the United States to pursue a Bachelor of Music degree at the Wheaton College Conservatory, where she studied under the guidance of Dr. Karin Edwards.
+
+Ten years later, Raluca is actively involved in music education, performance, composition, and arrangement. She teaches music at the Wheaton Yamaha Music School, where she imparts her vast knowledge and experience to aspiring musicians. Additionally, Raluca has published her own music on various platforms such as YouTube and Musicnotes. Her musical works have also gained recognition in Romania, where she has three piano books in circulation through Mirabel Music publishing house.
+
+Raluca's achievements are a testament to her talent, hard work, and determination. She and her husband currently reside in Aurora, IL, where she continues to pursue her passion for music and make a positive impact in the community.
+
              </p>
         </div>
     </div>
