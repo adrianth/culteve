@@ -20,7 +20,7 @@ title: Nicoleta & Liviu Roman & The Romanian-American Chicago Choir
             
             <p> It was a moment of pride and joy to hear them perform the National Anthem of Romania and that of our adoptive country, America! We listened with joy to sacred Romanian carols from the Romanian repertoire. In the end, we were carried away on the magical threads of childhood, feeling grateful alongside this special group. Thanks to instructors Nicoleta & Liviu for their passion and dedication to the Romanian-American community!</p>
             
-          
+    
            
             
         </div>
