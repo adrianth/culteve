@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Art and Culture
-title-en: Art and Culture
+title: Romanian Cultural Evening
+title-en: Romanian Cultural Evening
 # email: none@gmail.com
 baseurl: "" # the subpath of the site, e.g. /blog
 url: "http://culturalevening.com" # the base hostname & protocol for the site, e.g. http://example.com
