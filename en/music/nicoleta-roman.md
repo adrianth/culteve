@@ -17,12 +17,12 @@ title: Nicoleta & Liviu Roman & The Romanian-American Chicago Choir
             <p>The couple thought it would be good to dedicate their time to the musical education of many Romanian children in the American community. On December 2nd, 2023, The Romanian Cultural Evening family of Naperville grew, joined by the Romanian-American Choir from Chicago, led by Mrs. Nicoleta Roman & Mr. Liviu Roman. The Naperville library echoed with crystalline voices; it was an unforgettable evening, full of youth, good spirits, and tradition. Along with their students, the beautiful couple brought so much joy & happiness to the hearts of both young and old. They enriched the experience by incorporating guitar, accordion, and piano into the show, turning the event into a full house. 
             
             <p> It was a moment of pride and joy to hear them perform the National Anthem of Romania and that of our adoptive country, America! We listened with joy to sacred Romanian carols from the Romanian repertoire. In the end, we were carried away on the magical threads of childhood, feeling grateful alongside this special group. Thanks to instructors Nicoleta & Liviu for their passion and dedication to the Romanian-American community!</p>
-            
+        
     
            
             
-        </div>
-    </div>
+        
+
     <br>   
 </div>
 <br>
