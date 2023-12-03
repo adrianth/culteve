@@ -12,7 +12,7 @@ title: Nicoleta & Liviu Roman & The Romanian-American Chicago Choir
             <img class="img img-responsive" src="{{ site.baseurl }}/img/music/nicoleta-roman.jpg" />
         </div> 
         <div class="col-sm-7">
-            <p>The Romanian-American Choir from Chicago was founded by Mezzo-Soprano Nicoleta Roman, a vocal and piano teacher, a lyric artist at the Chicago Symphony Orchestra, alongside her husband, Dr. Liviu Roman.</p>
+            <p>The Romanian-American Choir from Chicago was founded by Mezzo-Soprano Nicoleta Roman, a vocal and piano teacher, lyric artist at the Chicago Symphony Orchestra, alongside her husband, Dr. Liviu Roman.</p>
 
             <p>Wishing to keep alive the flame of Romanian tradition, patriotic songs, and the sweet Romanian language, they thought it would be good to dedicate their time to the musical education of many Romanian children in the American community. The Romanian American Chicago Choir is a standalone non-profit organization.</p>
             
