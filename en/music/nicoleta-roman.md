@@ -12,7 +12,7 @@ title: Nicoleta & Liviu Roman & The Romanian-American Chicago Choir
             <img class="img img-responsive" src="{{ site.baseurl }}/img/music/nicoleta-roman.jpg" />
         </div> 
         <div class="col-sm-7">
-            <p>The Romanian-American Choir from Chicago was founded by Mezzo-Soprano Nicoleta Roman, a vocal and piano teacher, lyric artist at the Chicago Symphony Orchestra, alongside her husband, Dr. Liviu Roman. It is a standalone non-profit organization created to keep alive the flame of Romanian tradition, patriotic songs, and the sweet Romanian language.</p>
+            <p>The Romanian-American Choir from Chicago was founded by Mezzo-Soprano Nicoleta Roman, a vocal and piano teacher, lyric artist at the Chicago Symphony Orchestra, alongside her husband, Dr. Liviu Roman. The Romanian-American Choir is a standalone non-profit organization created to keep alive the flame of Romanian tradition, patriotic songs, and the sweet Romanian language.</p>
 
             <p>The couple thought it would be good to dedicate their time to the musical education of many Romanian children in the American community. On December 2nd, 2023, The Romanian Cultural Evening family of Naperville grew, joined by the Romanian-American Choir from Chicago led by Mrs. Nicoleta Roman & Mr. Liviu Roman. The Naperville library echoed with crystalline voices; it was an unforgettable evening, full of youth, good spirits, and tradition. The beautiful couple along with their students brought so much joy & happiness to the hearts of both young and old. They enriched the experience by incorporating guitar, accordion, and piano into the show, turning the event into a full house. 
             
