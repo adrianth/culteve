@@ -1,9 +1,5 @@
 ---
 ---
-.home-header .container > div {
-    height: 400px;
-}
-
 .homepage {
     height: 500px;
     display: flex;
@@ -16,19 +12,15 @@
 }
 
 .homepage *:nth-child(1) {
-    background-image: url({{ site.baseurl }}/img/home/paintbrush.jpg);
+    background-image: url({{ site.baseurl }}/img/home/biserica.jpg);
 }
 
 .homepage *:nth-child(2) {
-    background-image: url({{ site.baseurl }}/img/home/camera.jpg);
+    background-image: url({{ site.baseurl }}/img/home/ie-grigorescu.jpg);
 }
 
 .homepage *:nth-child(3) {
-    background-image: url({{ site.baseurl }}/img/home/violin.jpg);
-}
-
-.homepage *:nth-child(4) {
-    background-image: url({{ site.baseurl }}/img/home/violin.jpg);
+    background-image: url({{ site.baseurl }}/img/home/coloana-infinitului.jpg);
 }
 
 div.title h1 {
