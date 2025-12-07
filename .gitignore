@@ -5,3 +5,4 @@ _site
 # Non-Jekyll stuff
 _untracked
 TODO.txt
+.DS_Store
